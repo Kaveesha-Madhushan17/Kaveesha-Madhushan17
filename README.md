@@ -3,6 +3,7 @@
 ## About Me
 I'm a Computer Engineering undergraduate from Sri Lanka 🇱🇰 Faculty of Engineering University of Peradeniya with a deep fascination for **Artificial Intelligence** 🤖 and **Data Science** 📊.  
 
+
 ## 🔭 I’m currently working on
 - Designing projects in **Computer Architecture**  
 - Learning and experimenting with **Deep Learning**  
@@ -26,9 +27,21 @@ I'm a Computer Engineering undergraduate from Sri Lanka 🇱🇰 Faculty of Engi
 - Understanding large-scale ML systems and optimization  
 
 ## 💬 Ask me about
-- Python,java,C programming  
+- Python, Java, C, Assembly  
 - Machine learning  
 - Web development
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="API" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</div>
 
 ## 📫 How to reach me
 - 📧 Email: e21245@eng.pdn.ac.lk or kaveeshamadhushan1776@gmail.com  
@@ -36,6 +49,9 @@ I'm a Computer Engineering undergraduate from Sri Lanka 🇱🇰 Faculty of Engi
 
 ## 😄 Pronouns
 He/Him
+
+![Neural Network](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 
 ## ⚡ Fun fact
 I love combining creativity and code to bring ideas to life — especially using AI tools and data insights!
