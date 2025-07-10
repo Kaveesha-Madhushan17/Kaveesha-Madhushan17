@@ -3,6 +3,7 @@
 ## About Me
 I'm a Computer Engineering undergraduate from Sri Lanka 🇱🇰 Faculty of Engineering University of Peradeniya with a deep fascination for **Artificial Intelligence** 🤖 and **Data Science** 📊.  
 
+![Neural Network](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## 🔭 I’m currently working on
 - Designing projects in **Computer Architecture**  
@@ -46,11 +47,6 @@ I'm a Computer Engineering undergraduate from Sri Lanka 🇱🇰 Faculty of Engi
 ## 📫 How to reach me
 - 📧 Email: e21245@eng.pdn.ac.lk or kaveeshamadhushan1776@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/kaveesha-madhushan-99490a2a5](https://www.linkedin.com/in/kaveesha-madhushan-99490a2a5)  
-
-## 😄 Pronouns
-He/Him
-
-![Neural Network](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 ## ⚡ Fun fact
