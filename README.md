@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe! 🌟
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kaveesha+Madhushan;3rd+Year+Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
